@@ -1,0 +1,1 @@
+streamlit run "C:\Users\nitua\Desktop\Deploying Machine learning Model\Parkinson Disease Web App.py"
