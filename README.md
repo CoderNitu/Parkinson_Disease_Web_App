@@ -17,5 +17,10 @@ I have deployed a Machine Learning Model as a Web App using the Streamlit librar
 
 ## FUTURE WORK
 
+In the future, these models can be trained with different datasets that have the best features and can be predicted more accurately. If the accuracy rate increases, it can be used by laboratories and hospitals so that it is easy to predict in the early stages. These models can be also used with different medical and disease datasets. In the future the work can be extended by building a hybrid model that can find more than one disease with an accurate dataset and that dataset has common features of two diseases.
+
+
+
+
 
 
