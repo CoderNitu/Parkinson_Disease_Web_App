@@ -7,3 +7,6 @@ I have deployed a Machine Learning Model as a Web App using the Streamlit librar
 
 ## DEPLOYED ML MODEL AS A WEB APP
 
+![Screenshot (101)](https://github.com/CoderNitu/Parkinson_Disease_Web_App/assets/87817227/eaa9fbf9-9ddb-4aae-9d13-afa9bd7893d2)
+
+
