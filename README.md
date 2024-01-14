@@ -3,4 +3,4 @@ I have deployed a Machine Learning Model as a Web App using the Streamlit librar
 
 ## WORKFLOW DIAGRAM
 
-![Screenshot (105)](https://github.com/CoderNitu/Parkinson_Disease_Web_App/assets/87817227/65e05e74-4488-42f7-91b5-b50116f3a589)
+
