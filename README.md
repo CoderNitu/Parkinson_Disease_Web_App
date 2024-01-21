@@ -10,7 +10,7 @@ I have deployed a Machine Learning Model as a Web App using the Streamlit librar
 ![Screenshot (101)](https://github.com/CoderNitu/Parkinson_Disease_Web_App/assets/87817227/eaa9fbf9-9ddb-4aae-9d13-afa9bd7893d2)
 
 ## TOOLS AND TECHNOLOGIES USED
-1. STREAMLIT
+1. STREAMLIT LIBRARY
 2. PYTHON
 3. SPYDER
 4. GOOGLE COLAB
